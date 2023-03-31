@@ -13,5 +13,15 @@ public class AirDubai {
 		// TODO Auto-generated method stub
 
 	}	
+	private void tamil() {
+		// TODO Auto-generated method stub
 
+	}private void english() {
+		// TODO Auto-generated method stub
+
+	}private void mathes() {
+		// TODO Auto-generated method stub
+
+	}
+	
 }
