@@ -35,4 +35,12 @@ public class AirDubai {
 		// TODO Auto-generated method stub
 
 	}
+	private void test1() {
+		// TODO Auto-generated method stub
+
+	}
+	private void theni() {
+		// TODO Auto-generated method stub
+
+	}
 }
