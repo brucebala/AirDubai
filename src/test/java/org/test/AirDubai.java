@@ -43,4 +43,16 @@ public class AirDubai {
 		// TODO Auto-generated method stub
 
 	}
+	private void bruceeeee() {
+		// TODO Auto-generated method stub
+
+	}
+	private void sachin() {
+		// TODO Auto-generated method stub
+
+	}
+	private void dhoni() {
+		// TODO Auto-generated method stub
+
+	}
 }
