@@ -35,6 +35,13 @@ public class AirDubai {
 		// TODO Auto-generated method stub
 
 	}
+
+	private void tc4() {
+		// TODO Auto-generated method stub
+
+	}
+	private void bruce() {
+	}
 	private void test1() {
 		// TODO Auto-generated method stub
 
@@ -52,6 +59,7 @@ public class AirDubai {
 
 	}
 	private void dhoni() {
+
 		// TODO Auto-generated method stub
 
 	}
