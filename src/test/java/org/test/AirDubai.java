@@ -75,4 +75,8 @@ public class AirDubai {
 		// TODO Auto-generated method stub
 
 	}
+	private void gtand() {
+		// TODO Auto-generated method stub
+
+	}
 }
