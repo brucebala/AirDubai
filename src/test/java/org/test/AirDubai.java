@@ -75,4 +75,12 @@ public class AirDubai {
 		// TODO Auto-generated method stub
 
 	}
+	private void dec() {
+		// TODO Auto-generated method stub
+
+	}
+	private void raj() {
+		// TODO Auto-generated method stub
+
+	}
 }
